@@ -1,0 +1,16 @@
+python-dotenv==1.0.0
+bxsolana-trader
+solana
+loguru
+websockets==12.0
+numpy
+grpcio
+grpcio-tools
+requests==2.31.0
+aiohttp==3.9.1
+python-telegram-bot==20.6
+asyncio==3.4.3
+base58==2.1.1
+aiolimiter==1.1.0
+tenacity
+colorama==0.4.6
